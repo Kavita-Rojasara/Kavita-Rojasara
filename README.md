@@ -22,7 +22,7 @@ I’m deeply fascinated by various aspects of data science and AI, including :
 
 ### **Contact Me**  
 - **LinkedIn**: [Kavita Rojasara](linkedin.com/in/kavita-rojasara)
-- **GitHub**: [Kavita-Rojasara](#)  
+- **GitHub**: [Kavita-Rojasara](github.com/Kavita-Rojasara)  
 - **Email**: kavitarojasara0107@gmail.com  
 - **Phone**: +91 6353637271 
 
