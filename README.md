@@ -1,6 +1,6 @@
 ## Kavita Rojasara
 
-👋 **Welcome to My GitHub Profile!**
+### **Welcome to My GitHub Profile!**
 
 ### **About Me**  
 Hi! I'm **Kavita Rojasara**, a passionate **Data Science Master’s student** with a strong enthusiasm for uncovering insights from data and solving real-world challenges. I am motivated to continuously enhance my skills and make meaningful contributions to the field of **data science**.
