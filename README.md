@@ -21,7 +21,7 @@ I’m deeply fascinated by various aspects of data science and AI, including :
 - Mastering exploratory data analysis techniques.
 
 ### **Contact Me**  
-- **LinkedIn**: [Kavita Rojasara](linkedin.com/in/kavita-rojasara)
+- **LinkedIn**: [Kavita Rojasara](linkedin.com/in/kavitarojasara)
 - **GitHub**: [Kavita-Rojasara](github.com/Kavita-Rojasara)  
 - **Email**: kavitarojasara0107@gmail.com  
 - **Phone**: +91 6353637271 
