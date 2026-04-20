@@ -1,31 +1,68 @@
-## Kavita Rojasara
+# Hi, I'm Kavita Rojasara
 
-### **Welcome to My GitHub Profile!**
+Machine Learning Engineer focused on building real-world AI systems.
 
-### **About Me**  
-Hi! I'm **Kavita Rojasara**, a passionate **Data Science Master’s student** with a strong enthusiasm for uncovering insights from data and solving real-world challenges. I am motivated to continuously enhance my skills and make meaningful contributions to the field of **data science**.
+---
 
-### **Interests**  
-I’m deeply fascinated by various aspects of data science and AI, including :
-- **Artificial Intelligence (AI)**  
-- **Deep Learning (DL)**  
-- **Large Language Models (LLM)**  
-- **LangChain and Conversational AI**  
-- **Machine Learning (ML)**  
-- **Data Visualization**  
-- **Exploratory Data Analysis (EDA)**  
+## What I Work On
 
-### **Current Focus**  
-- Expanding expertise in AI, Deep Learning, and Language Models.  
-- Creating interactive and insightful data visualizations.  
-- Mastering exploratory data analysis techniques.
+- Designing **end-to-end ML systems** (not just models)
+- Building **retrieval-based systems** (RAG, similarity search)
+- Working with **computer vision and embeddings**
+- Turning ideas into **working pipelines and applications**
 
-### **Contact Me**  
+---
+
+## Featured Projects
+
+### Wedding Photo Face Recognition System
+- Built a face recognition pipeline using **RetinaFace + FaceNet**
+- Generated embeddings and performed similarity search using **cosine similarity**
+- Designed **offline ingestion + real-time query system**
+- Developed a **Streamlit demo** for validation
+
+---
+
+### Secure RAG Chatbot with RBAC
+- Built a document QA system using **FAISS-based retrieval**
+- Implemented **role-based access control (RBAC)** for secure responses
+- Prevents exposure of sensitive data (e.g., salary, internal info)
+- Returns controlled answers instead of raw document dumps
+
+---
+
+### Visual Product Search System
+- Built an end-to-end **image retrieval system** using ResNet embeddings
+- Implemented **FAISS indexing (Flat + IVF)**
+- Evaluated performance using **Recall@K and latency**
+- Developed **FastAPI backend + Streamlit UI**
+- Designed **config-driven experiments** (ResNet18 vs ResNet50)
+
+---
+
+## Tech Stack
+
+- **Languages:** Python  
+- **ML/AI:** TensorFlow, PyTorch, scikit-learn  
+- **Computer Vision:** DeepFace, RetinaFace  
+- **Retrieval:** FAISS, embeddings, RAG  
+- **Backend:** FastAPI  
+- **Database:** PostgreSQL  
+- **Tools:** Streamlit, Git  
+
+---
+
+## Current Focus
+
+- Improving **retrieval systems (RAG + similarity search)**
+- Building **scalable ML pipelines**
+- Moving from **prototype → production-style systems**
+
+---
+
+## Connect
+
 - **LinkedIn**: [Kavita Rojasara](https://www.linkedin.com/in/kavitarojasara)
 - **GitHub**: [Kavita-Rojasara](https://www.github.com/Kavita-Rojasara)  
 - **Email**: kavitarojasara0107@gmail.com  
 - **Phone**: +91 6353637271 
-
-Let's connect and explore the captivating world of data science together!
-
-Thank you for visiting my profile!
