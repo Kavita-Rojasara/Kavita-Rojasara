@@ -40,15 +40,39 @@ Machine Learning Engineer focused on building real-world AI systems.
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
-- **Languages:** Python  
-- **ML/AI:** TensorFlow, PyTorch, scikit-learn  
-- **Computer Vision:** DeepFace, RetinaFace  
-- **Retrieval:** FAISS, embeddings, RAG  
-- **Backend:** FastAPI  
-- **Database:** PostgreSQL  
-- **Tools:** Streamlit, Git  
+###  Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+###  Computer Vision & Embeddings
+![DeepFace](https://img.shields.io/badge/DeepFace-000000?style=for-the-badge)
+![RetinaFace](https://img.shields.io/badge/RetinaFace-000000?style=for-the-badge)
+
+---
+
+###  Retrieval & Search
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+
+---
+
+###  Backend & Database
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+###  Tools & Libraries
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -65,4 +89,3 @@ Machine Learning Engineer focused on building real-world AI systems.
 - **LinkedIn**: [Kavita Rojasara](https://www.linkedin.com/in/kavitarojasara)
 - **GitHub**: [Kavita-Rojasara](https://www.github.com/Kavita-Rojasara)  
 - **Email**: kavitarojasara0107@gmail.com  
-- **Phone**: +91 6353637271 
