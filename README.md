@@ -6,7 +6,7 @@ Machine Learning Engineer focused on building real-world AI systems.
 
 ## What I Work On
 
-- Designing **end-to-end ML systems** (not just models)
+- Designing **end-to-end ML systems** 
 - Building **retrieval-based systems** (RAG, similarity search)
 - Working with **computer vision and embeddings**
 - Turning ideas into **working pipelines and applications**
